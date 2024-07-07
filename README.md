@@ -1,2 +1,3 @@
-# Vvip
-VVIP_DDOS
+# ddos
+# By @xYz_CriminalL
+@SERVER FREEZE 
